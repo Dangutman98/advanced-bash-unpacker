@@ -1,6 +1,6 @@
 # Advanced Bash Archive Unpacker
 
-A robust Command Line Interface (CLI) utility built in Bash for automated, recursive, and secure archive extraction on Linux systems.
+A Command Line Interface (CLI) utility built in Bash for automated, recursive, and secure archive extraction on Linux systems.
 
 ## 🚀 Overview
 This tool was developed to solve the challenge of managing multiple archive formats across complex directory structures. Unlike standard tools that rely on file extensions, this script performs deep content inspection to ensure accurate processing.
